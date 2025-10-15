@@ -1,0 +1,25 @@
+{
+  "id": "c723f66f-0a4b-4fd8-aeca-8de09a8cb146",
+  "name": "AIC-FIFO Report",
+  "publisher": "BBrackett",
+  "version": "1.0.0.4",
+  "runtime": "13.0",
+  "target": "Cloud",
+  "application": "24.0.0.0",
+  "platform": "24.0.0.0",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true,
+    "applyToDevExtension": false
+  },
+  "features": [
+    "NoImplicitWith"
+  ],
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ]
+}
